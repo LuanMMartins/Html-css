@@ -20,7 +20,6 @@ align-items: center;
 padding-left: 30px;
 padding-right: 30px;
 padding-top: 20px;}
-{text-decoration: none;}
 .nave{color: white;}
 .porti{
     font-size: 40px;
@@ -40,7 +39,7 @@ a{color: white;
     text-decoration: none;
 
 }
- li a:hover {
+li a:hover {
     color: #f9004d;
 transition: 0.75s;
 }    
